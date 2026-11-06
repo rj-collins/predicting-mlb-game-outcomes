@@ -78,7 +78,7 @@ Identify the dataset and briefly describe what it contains. For a project from t
 
 | Item | Description |
 |---|---|
-| Dataset name | *You fill in your answer here.* |
+| Dataset name | *Main*: Retrosheet<BR>*Supplementary*: Lahman Database* |
 | Data source | *You fill in your answer here.* |
 | Unit of analysis (e.g., customer, transaction, patient) | *You fill in your answer here.* |
 | Approximate number of observations, if known | *You fill in your answer here.* |
