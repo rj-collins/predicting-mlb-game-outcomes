@@ -15,17 +15,17 @@ Keep your responses concise. Aim for approximately 1–2 pages.
 
 ## Project Information
 
-__Project title:__ Your title here.
+__Project title:__ Predicting MLB Game Outcomes After Six Innings.
 
-__Team name:__ I will rename your team in Canvas ir you may use the default.
+__Team name:__ I will rename your team in Canvas or you may use the default.
 
-__Team members:__ You should list the full names of all of your team members, please. I may not know everyone's nicknames yet!
+__Team members:__ Nick Degnan and Ruby Collins
 
 __Project source:__
 
 - [ ] Capstone Curated Project Bank
 
-- [ ] Alternative project approved by instructor
+- [X] Alternative project approved by instructor
 
 ### Problem and Context
 
@@ -139,11 +139,11 @@ This is actually one of the hardest parts - identifying your primary stakeholder
 
 Before submitting, confirm that everyone on your team can answer the following:
 
-- [ ] We can clearly describe the problem we will address in our Capstone project.
-- [ ] We understand why the problem may matter and __to whom__ it may matter.
-- [ ] We have identified a relevant stakeholder or intended audience.
-- [ ] We have identified the data we will use and what those data represent.
-- [ ] We understand, at a high level, what machine learning and data science practices might contribute to this problem.
+- [X] We can clearly describe the problem we will address in our Capstone project.
+- [X] We understand why the problem may matter and __to whom__ it may matter.
+- [X] We have identified a relevant stakeholder or intended audience.
+- [X] We have identified the data we will use and what those data represent.
+- [X] We understand, at a high level, what machine learning and data science practices might contribute to this problem.
 - [ ] We have identified any important questions or uncertainties that remain.
 - [ ] We have identified, at a high level, any risks to this project.
 - [ ] We have confirmed that the project and data source are appropriate for the eight-week Capstone.
