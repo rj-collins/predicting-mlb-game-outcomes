@@ -37,7 +37,7 @@ Describe the problem in a few sentences. What is happening that an organization,
 
 __Your response:__
 
-[Describe the problem.]
+Sports betting companies offer live betting for MLB games with fluid betting odds. In order to maximize profit, these groups require mid-game predictions that are as accurate as possible. 
 
 ### Why Does This Problem Matter?
 
@@ -52,7 +52,7 @@ __Consider__:
 
 __Your response:__
 
-[Explain why the problem matters.]
+Sports betting companies make a profit by offering odds that favor themselves over the customer while still being fair enough to yield engagement and wagers. Accurate predictions for live MLB games empower companies to optimize live-betting odds for maximum house wins and minimum customer wins.
 
 ### Stakeholder and Intended Use
 
@@ -60,7 +60,7 @@ __Who would care about the results of this project?__
 
 Identify the primary stakeholder or intended audience. This could be a business unit, organizational decision-maker, public agency, healthcare provider, or other group.
 
-__Primary stakeholder:__
+__Primary stakeholder:__ Sport Betting Companies
 
 __What might this stakeholder want to learn or do with the results?__
 
@@ -68,7 +68,7 @@ __What might this stakeholder want to learn or do with the results?__
 
 __Your response:__
 
-[Identify the stakeholder and describe how the results could be useful.]
+Sportbooks can greatly benefit from more accurate predictions of where the game is going after 6 innings. They would also benefit from an optimal prediction methodology, i.e. determining the boundary where prediction based on current score breaks down and underlying statistics begin to provide accuracy amidst uncertainty.
 
 ### Data Overview
 
