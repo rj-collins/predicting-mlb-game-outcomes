@@ -155,3 +155,18 @@ __Team confirmation:__ We agree that this charter accurately describes our share
 __Submitted by:__ Nick Degnan
 
 __Date:__ 11/5/26
+
+name: Export Markdown
+on: [push]
+
+jobs:
+  convert_md:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Render PDF and HTML
+      uses: baileyjm02/markdown-to-pdf@v1
+      with:
+        input_path: README.md
+        output_dir: output_files
+        build_html: true
