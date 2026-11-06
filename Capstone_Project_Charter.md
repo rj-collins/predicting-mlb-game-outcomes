@@ -78,12 +78,12 @@ Identify the dataset and briefly describe what it contains. For a project from t
 
 | Item | Description |
 |---|---|
-| Dataset name | *Main*: Retrosheet<BR>*Supplementary*: Lahman Database* |
-| Data source | *You fill in your answer here.* |
-| Unit of analysis (e.g., customer, transaction, patient) | *You fill in your answer here.* |
-| Approximate number of observations, if known | *You fill in your answer here.* |
-| General types of information available | *You fill in your answer here.* |
-| Data access confirmed? | *Choose one*: Yes / No |
+| Dataset name | *Main*: Retrosheet<BR>*Supplementary*: Lahman Database |
+| Data source | https://retrosheet.org/downloads/plays.html<BR>https://sabr.org/lahman-database/  |
+| Unit of analysis (e.g., customer, transaction, patient) | MLB game data with outcomes (win/lose) |
+| Approximate number of observations, if known | Approximately 230,000 MLB games |
+| General types of information available | Basic scoring data by inning, plus more detailed information down to individual plays. |
+| Data access confirmed? | Yes |
 
 __How might these data help address the problem?__
 
