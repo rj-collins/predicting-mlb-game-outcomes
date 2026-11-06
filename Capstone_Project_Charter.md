@@ -37,7 +37,7 @@ Describe the problem in a few sentences. What is happening that an organization,
 
 __Your response:__
 
-Sports betting companies offer live betting for MLB games with fluid betting odds. In order to maximize profit, these groups require mid-game predictions that are as accurate as possible. 
+__Sports betting companies offer live betting for MLB games with fluid betting odds. In order to maximize profit, these groups require mid-game predictions that are as accurate as possible.__ 
 
 ### Why Does This Problem Matter?
 
@@ -52,7 +52,7 @@ __Consider__:
 
 __Your response:__
 
-Sports betting companies make a profit by offering odds that favor themselves over the customer while still being fair enough to yield engagement and wagers. Accurate predictions for live MLB games empower companies to optimize live-betting odds for maximum house wins and minimum customer wins.
+__Sports betting companies make a profit by offering odds that favor themselves over the customer while still being fair enough to yield engagement and wagers. Accurate predictions for live MLB games empower companies to optimize live-betting odds for maximum house wins and minimum customer wins.__
 
 ### Stakeholder and Intended Use
 
@@ -68,7 +68,7 @@ __What might this stakeholder want to learn or do with the results?__
 
 __Your response:__
 
-Sportbooks can greatly benefit from more accurate predictions of where the game is going after 6 innings. They would also benefit from an optimal prediction methodology, i.e. determining the boundary where prediction based on current score breaks down and underlying statistics begin to provide accuracy amidst uncertainty.
+__Sportbooks can greatly benefit from more accurate predictions of where the game is going after 6 innings. They would also benefit from an optimal prediction methodology, i.e. determining the boundary where prediction based on current score breaks down and underlying statistics begin to provide accuracy amidst uncertainty.__
 
 ### Data Overview
 
@@ -93,7 +93,7 @@ Briefly explain what information in the dataset could be relevant to the problem
 
 __Your response:__
 
-These datasets include the basic necessities of the investigation in box scores by inning, plus highly detailed play-by-play data. The team will examine these to determine patterns and discern key performance indicators. 
+__These datasets include the basic necessities of the investigation in box scores by inning, plus highly detailed play-by-play data. The team will examine these to determine patterns and discern key performance indicators.__ 
 
 ### The Data Science Opportunity
 
@@ -105,7 +105,7 @@ At a high level, describe what you hope to learn or accomplish using the availab
 
 __Your response:__
 
-The team will use historical MLB game data to conduct a straightforward predictive analysis based on score by inning, as well as more complex analyses utilizing comprehensive play-by-play data. The different models can then be compared for relative predictive strength and to discern the strength of key performance indicators. 
+__The team will use historical MLB game data to conduct a straightforward predictive analysis based on score by inning, as well as more complex analyses utilizing comprehensive play-by-play data. The different models can then be compared for relative predictive strength and to discern the strength of key performance indicators.__ 
 
 ### Initial Questions and Unknowns
 
@@ -135,7 +135,7 @@ Project risks are uncertainties that can undermine a project's success. Sometime
 
 This is actually one of the hardest parts - identifying your primary stakeholder. In the real world, you will know exactly who they are and what is expected of you. Here, you are being asked __to choose__ one (and really try to focus on just one) stakeholder. This will be the audience to whom you address your deliverables (as well as other data scientists on your team, of course!).
 
-As mentioned above, sportsbook analysts will likely be very interested in a predictive model that can indicate the result of a baseball game after six innings. They stand to benefit the most from this investigation and provide the most natural setup to apply our intended models.
+__As mentioned above, *sports betting companies* (sportsbooks) will likely be very interested in a predictive model that can indicate the result of a baseball game after six innings. They stand to benefit the most from this investigation and provide the most natural setup to apply our intended models.__
 
 ## Final Check
 
@@ -154,4 +154,4 @@ __Team confirmation:__ We agree that this charter accurately describes our share
 
 __Submitted by:__ Nick Degnan
 
-__Date:__ [Don't forget to date it!]
+__Date:__ 11/5/26
