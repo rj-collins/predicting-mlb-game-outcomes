@@ -93,7 +93,7 @@ Briefly explain what information in the dataset could be relevant to the problem
 
 __Your response:__
 
-[Describe the relevance of the data to the problem.]
+These datasets include the basic necessities of the investigation in box scores by inning, plus highly detailed play-by-play data. The team will examine these to determine patterns and discern key performance indicators. 
 
 ### The Data Science Opportunity
 
@@ -105,7 +105,7 @@ At a high level, describe what you hope to learn or accomplish using the availab
 
 __Your response:__
 
-[Describe the intended analytical task in a few sentences.]
+The team will use historical MLB game data to conduct a straightforward predictive analysis based on score by inning, as well as more complex analyses utilizing comprehensive play-by-play data. The different models can then be compared for relative predictive strength and to discern the strength of key performance indicators. 
 
 ### Initial Questions and Unknowns
 
@@ -113,11 +113,11 @@ What do you still need to understand about the problem, the data, or the intende
 
 List up to three questions that your team expects to investigate during the background/rationale development and initial data exploration, both of which you will do during Sprint 2.
 
-1. [Your question here.] 
+1. __Do underlying in-game statistics provide more predictive value than score alone when predicting the outcomes of MLB games after six innings?__ 
 
-2. [Your question here.] 
+2. __What is the optimal number of innings for predictive model performance?__ 
 
-3. [Your question here.] 
+3. __Which features may be predictive of game outcome?__
 
 These are starting questions, not necessarily your final analytical question(s). You will refine your understanding of the problem and develop your Analysis Plan during Sprint 2.
 
@@ -127,13 +127,15 @@ Project risks are uncertainties that can undermine a project's success. Sometime
 
 1. __The dataset chosen may not be suitable to address the problem/question exactly as posed.__
 
-2. [Your risk here.]
+2. __Substantial quantity of data could provide challenges in data cleaning and processing.__
 
-3. [Your risk here.]
+3. __Shifts in typical MLB athlete/team performance across 120+ years of data may lead to differences in detectable patterns between different time periods.__
 
 ### Your Intended Stakeholder
 
 This is actually one of the hardest parts - identifying your primary stakeholder. In the real world, you will know exactly who they are and what is expected of you. Here, you are being asked __to choose__ one (and really try to focus on just one) stakeholder. This will be the audience to whom you address your deliverables (as well as other data scientists on your team, of course!).
+
+As mentioned above, sportsbook analysts will likely be very interested in a predictive model that can indicate the result of a baseball game after six innings. They stand to benefit the most from this investigation and provide the most natural setup to apply our intended models.
 
 ## Final Check
 
@@ -144,12 +146,12 @@ Before submitting, confirm that everyone on your team can answer the following:
 - [X] We have identified a relevant stakeholder or intended audience.
 - [X] We have identified the data we will use and what those data represent.
 - [X] We understand, at a high level, what machine learning and data science practices might contribute to this problem.
-- [ ] We have identified any important questions or uncertainties that remain.
-- [ ] We have identified, at a high level, any risks to this project.
-- [ ] We have confirmed that the project and data source are appropriate for the eight-week Capstone.
+- [X] We have identified any important questions or uncertainties that remain.
+- [X] We have identified, at a high level, any risks to this project.
+- [X] We have confirmed that the project and data source are appropriate for the eight-week Capstone.
 
 __Team confirmation:__ We agree that this charter accurately describes our shared understanding of the project at the start of the Capstone.
 
-__Submitted by:__ [You only need one person to submit]
+__Submitted by:__ Nick Degnan
 
 __Date:__ [Don't forget to date it!]
